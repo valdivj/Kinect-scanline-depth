@@ -1,0 +1,487 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AdvancedHMIDrivers
+</name>
+</assembly>
+<members>
+<member name="P:AdvancedHMIDrivers.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:AdvancedHMIDrivers.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:AdvancedHMIDrivers.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.ReadAny(System.String)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as a string
+ </summary>
+	<param name="startAddress"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WriteData(System.String,System.Int32)">
+	<summary>
+ Write a single integer value to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WriteData(System.String,System.Int32,System.Int32[])">
+	<summary>
+ Write multiple consectutive integer values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WriteData(System.String,System.Single)">
+	<summary>
+ Write a single floating point value to a data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WriteData(System.String,System.Int32,System.Single[])">
+	<summary>
+ Write multiple consectutive floating point values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WriteData(System.String,System.String)">
+	<summary>
+ Write a string value to a string data table
+ The startAddress is in the common form of AB addressing (e.g. ST9:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WordsToString(System.Int32[])">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WordsToString(System.Int32[],System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.WordsToString(System.Int32[],System.Int32,System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<param name="wordCount"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforCLXComm.StringToWords(System.String)">
+	<summary>
+ Convert a string to an array of words
+ Can be used when writing a string into an integer data table
+ </summary>
+	<param name="source"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.DF1Comm.DetectCommSettings">
+	<summary>
+ This method is intended to make it easy to configure the
+ comm port settings. It is similar to the auto configure
+ in RSLinx. A successful configuration returns a 0 and sets the
+ properties to the discovered values.
+ It will fire the event "AutoDetectTry" for each setting attempt
+ It uses the echo command and sends the character "A", then
+ checks if it received a response.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.ReadAny(System.String,System.Int32)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as an array of strings
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.ReadAny(System.String)">
+ Synchronous read of any data type
+ this function returns results as a string
+
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WriteData(System.String,System.Int32)">
+	<summary>
+ Write a single integer value to a PLC data table
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WriteData(System.String,System.Int32,System.Int32[])">
+	<summary>
+ Write multiple consectutive integer values to a PLC data table
+ The startAddress is in the common form of GE FANUC addressing (e.g. R100)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WriteData(System.String,System.String)">
+	<summary>
+ Write a string value to a string data table
+ The startAddress is in the common form of GE Fanuc addressing (e.g. M100)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WordsToString(System.Int32[])">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WordsToString(System.Int32[],System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.WordsToString(System.Int32[],System.Int32,System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<param name="wordCount"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.SNPXComm.StringToWords(System.String)">
+	<summary>
+ Convert a string to an array of words
+ Can be used when writing a string into an integer data table
+ </summary>
+	<param name="source"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetProcessorType">
+	<summary>
+ Retreives the processor code by using the get status command
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetDataMemory">
+	<summary>
+ Retreives the list of data tables and number of elements in each
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetSlotCount">
+	<summary>
+ Get the number of slots in the rack
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetIOConfig">
+	<summary>
+ Get IO card list currently in rack
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetSLCIOConfig">
+	<summary>
+ Get IO card list currently in rack of a SLC
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.GetML1500IOConfig">
+	<summary>
+ Get IO card list currently in rack of a ML1500
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.ReadAny(System.String,System.Int32)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as an array of strings
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.ReadAny(System.String)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as a string
+ </summary>
+	<param name="startAddress"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.ReadInt(System.String,System.Int32)">
+	<summary>
+ Reads values and returns them as integers
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfBytes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WriteData(System.String,System.Int32)">
+	<summary>
+ Write a single integer value to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WriteData(System.String,System.Int32,System.Int32[])">
+	<summary>
+ Write multiple consectutive integer values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WriteData(System.String,System.Single)">
+	<summary>
+ Write a single floating point value to a data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WriteData(System.String,System.Int32,System.Single[])">
+	<summary>
+ Write multiple consectutive floating point values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WriteData(System.String,System.String)">
+	<summary>
+ Write a string value to a string data table
+ The startAddress is in the common form of AB addressing (e.g. ST9:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WordsToString(System.Int32[])">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WordsToString(System.Int32[],System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.WordsToString(System.Int32[],System.Int32,System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<param name="wordCount"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.AllenBradleyPCCC.StringToWords(System.String)">
+	<summary>
+ Convert a string to an array of words
+ Can be used when writing a string into an integer data table
+ </summary>
+	<param name="source"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetProcessorType">
+	<summary>
+ Retreives the processor code by using the get status command
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetDataMemory">
+	<summary>
+ Retreives the list of data tables and number of elements in each
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetSlotCount">
+	<summary>
+ Get the number of slots in the rack
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetIOConfig">
+	<summary>
+ Get IO card list currently in rack
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetSLCIOConfig">
+	<summary>
+ Get IO card list currently in rack of a SLC
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.GetML1500IOConfig">
+	<summary>
+ Get IO card list currently in rack of a ML1500
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.ReadAny(System.String,System.Int32)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as an array of strings
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.ReadAny(System.String)">
+	<summary>
+ Synchronous read of any data type
+ this function returns results as a string
+ </summary>
+	<param name="startAddress"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.ReadInt(System.String,System.Int32)">
+	<summary>
+ Reads values and returns them as integers
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfBytes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WriteData(System.String,System.Int32)">
+	<summary>
+ Write a single integer value to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WriteData(System.String,System.Int32,System.Int32[])">
+	<summary>
+ Write multiple consectutive integer values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. N7:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WriteData(System.String,System.Single)">
+	<summary>
+ Write a single floating point value to a data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WriteData(System.String,System.Int32,System.Single[])">
+	<summary>
+ Write multiple consectutive floating point values to a PLC data table
+ The startAddress is in the common form of AB addressing (e.g. F8:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="numberOfElements"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WriteData(System.String,System.String)">
+	<summary>
+ Write a string value to a string data table
+ The startAddress is in the common form of AB addressing (e.g. ST9:0)
+ </summary>
+	<param name="startAddress"></param>
+	<param name="dataToWrite"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WordsToString(System.Int32[])">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WordsToString(System.Int32[],System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.WordsToString(System.Int32[],System.Int32,System.Int32)">
+	<summary>
+ Convert an array of integers to a string
+ This is used when storing strings in an integer data table
+ </summary>
+	<param name="words"></param>
+	<param name="index"></param>
+	<param name="wordCount"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AdvancedHMIDrivers.EthernetIPforSLCMicroComm.StringToWords(System.String)">
+	<summary>
+ Convert a string to an array of words
+ Can be used when writing a string into an integer data table
+ </summary>
+	<param name="source"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

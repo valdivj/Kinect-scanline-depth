@@ -1,0 +1,291 @@
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V1 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V2 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  V3 3D\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+E:\ScanLineCam\New folder\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+E:\ScanLineCam\New folder\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+E:\ScanLineCam\New folder\ScanLineCam\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  Dryer1\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera  measure\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 4_15_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\New folder\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\New folder\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\New folder\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live\ScanLineCamera\obj\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\ScanLineCamera.exe.config
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\Microsoft.Kinect.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\OpcNetApi.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\OpcNetApi.Com.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\OpcComRcw.dll
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\AdvancedHMIDrivers.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\Microsoft.Kinect.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\OpcNetApi.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\bin\Debug\OpcNetApi.Com.xml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\MainWindow.baml
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\MainWindow.g.cs
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\App.g.cs
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera_MarkupCompile.cache
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.g.resources
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.Properties.Resources.resources
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.csproj.GenerateResource.Cache
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.exe.manifest
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.application
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.exe
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.pdb
+C:\Users\shirley\Desktop\Kinect 10_21_15\ScanLineCamera live depth\ScanLineCamera\obj\Debug\ScanLineCamera.csprojResolveAssemblyReference.cache

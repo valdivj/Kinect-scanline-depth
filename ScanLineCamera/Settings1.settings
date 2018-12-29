@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScanLineCamera" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="RedPixelSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.056</Value>
+    </Setting>
+    <Setting Name="BluePixelSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.056</Value>
+    </Setting>
+    <Setting Name="GreenPixelSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.056</Value>
+    </Setting>
+    <Setting Name="YellowPixelSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.056</Value>
+    </Setting>
+    <Setting Name="IP_Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00.00.00.00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
