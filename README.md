@@ -5,4 +5,4 @@ It is written in C#. It also passes the data to a plc using comms from advanced 
 
 
 
-![Image description](https://github.com/valdivj/Kinect-Scanline/blob/master/PIC.jpg)# Kinect scanline depth
+![Image description](https://github.com/valdivj/Kinect-scanline-depth/blob/master/depth.jpg)
